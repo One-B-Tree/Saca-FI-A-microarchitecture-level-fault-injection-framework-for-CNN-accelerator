@@ -14,7 +14,7 @@ The input images are stored in the pic folder.
 Path description: You need to change the a and b paths in the loc_file function of tool/file_manage.py to local paths.
 Results: Saved in the AVF_record folder.
 
-# Paper: More details can be found in the article:
+# Paper: More details can be found here:
 Saca-FI: A microarchitecture-level fault injection framework for reliability analysis of systolic array based CNN accelerator，https://doi.org/10.1016/j.future.2023.05.009
 
 It would be appreciated if you could share your improvement suggestions with us.
